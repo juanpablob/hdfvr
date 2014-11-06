@@ -11,5 +11,5 @@ Since this is an unnoficial repo from [HDFVR](www.hdfvr.com), I can't guarantee 
 ## To-Do
 * [x] Reorganize folder structure and files
 * [x] Make spanish language (file)
-* [] Include a demo
-* [] Prepare an API guide
+* [ ] Include a demo
+* [ ] Prepare an API guide
