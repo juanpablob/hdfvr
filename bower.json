@@ -1,0 +1,28 @@
+{
+  "name": "hdfvr",
+  "version": "1.0.0",
+  "homepage": "https://github.com/juanpablob/hdfvr",
+  "authors": [
+    "Juan Pablo <m.juanpablob@gmail.com>"
+  ],
+  "description": "HDFVR recorder from NuSoft",
+  "main": "VideoRecorder.swf",
+  "keywords": [
+    "hdfvr",
+    "nusoft"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swfobject": "*"
+  },
+  "devDependencies": {
+    "swfobject": "*"
+  }
+}
