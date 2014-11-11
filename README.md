@@ -5,6 +5,9 @@ I made this repo only for [Bower](http://bower.io) purposes, to act as a compone
 
 ###### Notice: If you came here looking for the original package of HDFVR web components including server-side scripts, you should go to the product webpage at [HDFVR](http://www.hdfvr.com) from [NuSoft](http://www.nusofthq.com) and download the product files or apply for a trial in order to get those files.
 
+## Usage
+Once cloned/forked this repo, You can edit server-side scripts such as `PHP/ASP/CS` and edit settings and directives; `.gitignore` will ignore the changes.
+
 ## Updates
 Since this is an unnoficial repo from [HDFVR](http://www.hdfvr.com), I can't guarantee regular updates as NuSoft releases new versions of scripts.
 
